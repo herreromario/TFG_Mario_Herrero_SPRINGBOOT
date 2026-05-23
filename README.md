@@ -105,5 +105,3 @@ Ejemplo de cuerpo para POST `/produccion`:
 - Si deseas habilitar la creación automática de tablas en desarrollo, ajusta `spring.jpa.hibernate.ddl-auto` a `update` o `create`.
 
 ---
-
-Si necesitas, puedo ayudarte también a documentar los campos de cada DTO o a generar ejemplos de respuesta JSON.
